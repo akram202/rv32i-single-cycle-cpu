@@ -1,5 +1,5 @@
 # Cœur RV32I monocycle simplifié
-<img width="2432" height="1744" alt="Gemini_Generated_Image_rm6881rm6881rm68" src="https://github.com/user-attachments/assets/e2b66209-4a41-45fe-9869-b1ca133beb2c" />
+<img width="2432" height="1744" alt="rm68" src="https://github.com/user-attachments/assets/e2b66209-4a41-45fe-9869-b1ca133beb2c" />
 
 
 Cette version n'utilise ni `enum`, ni `struct`, ni package. Les commandes sont de simples vecteurs logiques et les signaux de contrôle sont des ports distincts.
@@ -41,7 +41,7 @@ Résultat attendu : `PASS: ADD, SW, LW, BEQ et JAL vérifiés.` Le programme de 
 
 
  example :
-<img width="2400" height="1792" alt="Gemini_Generated_Image_8a4f7q8a4f7q8a4f" src="https://github.com/user-attachments/assets/e4eccf0e-83b9-479a-b7da-7d9fba1b88a7" />
+<img width="2400" height="1792" alt="f7q8a4f7q8a4f" src="https://github.com/user-attachments/assets/e4eccf0e-83b9-479a-b7da-7d9fba1b88a7" />
 
 
 
