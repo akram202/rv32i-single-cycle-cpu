@@ -1,4 +1,6 @@
 # Cœur RV32I monocycle simplifié
+<img width="2432" height="1744" alt="Gemini_Generated_Image_rm6881rm6881rm68" src="https://github.com/user-attachments/assets/e2b66209-4a41-45fe-9869-b1ca133beb2c" />
+
 
 Cette version n'utilise ni `enum`, ni `struct`, ni package. Les commandes sont de simples vecteurs logiques et les signaux de contrôle sont des ports distincts.
 
@@ -36,3 +38,18 @@ Résultat attendu : `PASS: ADD, SW, LW, BEQ et JAL vérifiés.` Le programme de 
 - `program.hex`, `tb_rv32i.sv`: programme et testbench.
 
 `ResultSrc` utilise 2 bits pour prendre en charge l'écriture de PC+4 par JAL. L'IMEM et la DMEM utilisent des adresses en octets alignées sur 4 octets. Le testbench accède aux registres internes pour vérifier les résultats; ces références ne font pas partie du matériel synthétisé.
+
+
+ example :
+<img width="2400" height="1792" alt="Gemini_Generated_Image_8a4f7q8a4f7q8a4f" src="https://github.com/user-attachments/assets/e4eccf0e-83b9-479a-b7da-7d9fba1b88a7" />
+
+
+
+
+
+- les resultat final :
+- <img width="1914" height="723" alt="Screenshot_20261103_092624-1" src="https://github.com/user-attachments/assets/d51d0e14-45f2-467c-8a9d-3067623a0ea4" />
+- <img width="1848" height="606" alt="Screenshot_20261103_095143" src="https://github.com/user-attachments/assets/03a2baab-a52b-44e3-9b6f-ba44b8856970" />
+
+
+
