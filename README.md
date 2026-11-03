@@ -47,7 +47,7 @@ Résultat attendu : `PASS: ADD, SW, LW, BEQ et JAL vérifiés.` Le programme de 
 
 
 
-- les resultat final :
+- les resultats final :
 - <img width="1914" height="723" alt="Screenshot_20261103_092624-1" src="https://github.com/user-attachments/assets/d51d0e14-45f2-467c-8a9d-3067623a0ea4" />
 - <img width="1848" height="606" alt="Screenshot_20261103_095143" src="https://github.com/user-attachments/assets/03a2baab-a52b-44e3-9b6f-ba44b8856970" />
 
